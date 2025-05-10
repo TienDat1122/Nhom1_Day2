@@ -1,5 +1,0 @@
-[2025-04-22 15:32:45] [INFO] Không thể tải dữ liệu từ file hoặc file chưa tồn tại. Bắt đầu với dữ liệu mới.
-[2025-04-22 15:32:45] [INFO] Hệ thống quản lý khách sạn đã khởi động.
-[2025-04-22 15:32:55] [INFO] Ứng dụng đóng. Đã lưu dữ liệu.
-[2025-04-22 16:06:02] [INFO] Hệ thống quản lý khách sạn đã khởi động.
-[2025-04-22 16:06:04] [INFO] Ứng dụng đóng. Đã lưu dữ liệu.
