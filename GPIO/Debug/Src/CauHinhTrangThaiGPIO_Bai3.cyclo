@@ -1,0 +1,6 @@
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:20:6:delay	2
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:25:13:RED_init	1
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:37:13:Button_init	1
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:48:13:RED_SetStatus	2
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:57:16:ButtonRead_Status	1
+..\Src\CauHinhTrangThaiGPIO_Bai3.c:61:5:main	3
