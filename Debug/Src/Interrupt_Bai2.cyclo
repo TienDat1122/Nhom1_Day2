@@ -1,6 +1,0 @@
-../Src/Interrupt_Bai2.c:65:6:EXTI3_IRQHandler	2
-../Src/Interrupt_Bai2.c:76:5:main	2
-../Src/Interrupt_Bai2.c:97:13:Led_Init	1
-../Src/Interrupt_Bai2.c:112:13:Interrupt_Init	1
-../Src/Interrupt_Bai2.c:144:13:delay	2
-../Src/Interrupt_Bai2.c:149:13:LedControl_Status	3
